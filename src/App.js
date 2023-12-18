@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 
+// questo file contiene il nostro prio componente react, il principale. App.js
+// un componente React, nella sua forma piu' basilare, non e' altro che una semplicissima funzione.... che ritorna dell JSX!
+
 function App() {
   return (
     <div className="App">
